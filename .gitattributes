@@ -1,1 +1,5 @@
 *.zst filter=lfs diff=lfs merge=lfs -text
+04_09/core-image-minimal-imx8mpevk-20240904210814.rootfs.wic.zst filter=lfs diff=lfs merge=lfs -text
+04_09/I[[:space:]]hate[[:space:]]you[[:space:]]lfs filter=lfs diff=lfs merge=lfs -text
+31_08/core-image-minimal-imx8mpevk-20240831155607.rootfs.wic.zst filter=lfs diff=lfs merge=lfs -text
+31_08/I[[:space:]]hate[[:space:]]you filter=lfs diff=lfs merge=lfs -text
