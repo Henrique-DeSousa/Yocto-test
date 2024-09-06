@@ -3,3 +3,5 @@
 31_08/core-image-minimal-imx8mpevk-20240831155607.rootfs.wic.zst filter=lfs diff=lfs merge=lfs -text
 05_09/ filter=lfs diff=lfs merge=lfs -text
 05_09/core-image-minimal-imx8mpevk-20240905195657.rootfs.tar.zst filter=lfs diff=lfs merge=lfs -text
+06_09/core-image-minimal-imx8mpevk.rootfs-20240906180657.spdx.tar.zst filter=lfs diff=lfs merge=lfs -text
+06_09/core-image-minimal-imx8mpevk.rootfs-20240906180657.tar.zst filter=lfs diff=lfs merge=lfs -text
